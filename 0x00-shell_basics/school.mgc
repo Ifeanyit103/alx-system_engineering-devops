@@ -1,2 +1,2 @@
-\n0 string SHOOL School data\n!:mine School
+\n0 string SHOOL School data\n::mine School
 file -C -m school.mgc
